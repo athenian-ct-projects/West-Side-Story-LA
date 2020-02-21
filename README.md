@@ -1,9 +1,6 @@
-# Assignment Description
+# West Side Story Line Learning Quiz
 
-written by 
+written by LA '23
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/West-Side-Story-LA)](https://repl.it/github/athenian-ct-projects/West-Side-Story-LA)
+* This is a game/quiz for the West Side Story focus day.
